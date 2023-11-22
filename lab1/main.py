@@ -14,4 +14,4 @@ for i in range(len(sides)):
         if s > smax:
           smax = s
 
-print('Максимальная плозадь треугольника:', smax)
+print('Максимальная площадь треугольника:', smax)
